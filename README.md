@@ -1,4 +1,17 @@
-## liualex.me
+cs at purdue
+  <br/>
+   <br/>
+    <br/>
+<a href="https://liualex.me">
+website
+</a>
+ <br/>
+  <br/>
+   <br/>
+<a href="https://www.linkedin.com/in/alexxliu/">
+linkedin
+</a>
+
 
 <!--
 **alexxliu/alexxliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
