@@ -2,13 +2,13 @@ me cs at purdue
   <br/>
    <br/>
     <br/>
-<a href="https://liualex.me">
+<a href="https://liualex.me" target="_blank">
 me website
 </a>
  <br/>
   <br/>
    <br/>
-<a href="https://www.linkedin.com/in/alexxliu/">
+<a href="https://www.linkedin.com/in/alexxliu/" target="_blank">
 me linkedin
 </a>
 
