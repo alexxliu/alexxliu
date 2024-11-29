@@ -1,11 +1,3 @@
-roblox
-  <br/>
-   <br/>
-    <br/>
-purdue cs
-  <br/>
-   <br/>
-    <br/>
 <a href="https://liualex.me">
 website
 </a>
